@@ -56,3 +56,8 @@ JavaScript Challenges
 - CSS
 - JS
 
+## Contributors
+- ZainabAlexander
+
+## Link to live website:
+- https://zainabalexander.github.io/javaScript_challenges/index.html
