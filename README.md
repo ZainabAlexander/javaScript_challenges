@@ -37,6 +37,7 @@ JavaScript Challenges
 - My countdown timer counts down the time left until my birthday. 
 - The timer shows days, hours, minutes and seconds.
 - The timer updates without the page refreshing.
+- Added a google font to the countdown timer.
 
 ## Challenge 5
 - Created an age restriction alert.
