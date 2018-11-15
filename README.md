@@ -30,6 +30,7 @@ JavaScript Challenges
 - When you load the page all the blocks must be white. 
 - When you click on the div, ie. I click on red, the div's background colour must change to red, etc. 
 - Used JavaScript to set the background colour of each div. 
+- Gave each colour of the rainbow the same width and height with css.
 
 ## Challenge 4
 - Created the HTML I need to display the countdown timer on the page.
